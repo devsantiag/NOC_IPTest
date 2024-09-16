@@ -1,0 +1,6 @@
+C:\NOC_IPTesting\NOC_IPTesting\bin\Debug\NOC_IPTesting.exe.config
+C:\NOC_IPTesting\NOC_IPTesting\bin\Debug\NOC_IPTesting.exe
+C:\NOC_IPTesting\NOC_IPTesting\bin\Debug\NOC_IPTesting.pdb
+C:\NOC_IPTesting\NOC_IPTesting\obj\Debug\NOC_IPTesting.csprojResolveAssemblyReference.cache
+C:\NOC_IPTesting\NOC_IPTesting\obj\Debug\NOC_IPTesting.exe
+C:\NOC_IPTesting\NOC_IPTesting\obj\Debug\NOC_IPTesting.pdb
